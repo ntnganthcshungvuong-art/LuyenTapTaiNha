@@ -1,7002 +1,3502 @@
 [
   {
     "id": "ChuongI_Bai1to5_001",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 84 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_002",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 65 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_003",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 49 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_004",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 88 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_005",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 51 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_006",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 21 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_007",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 81 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_008",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 44 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_009",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 90 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_010",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 78 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_011",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 25 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_012",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 60 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_013",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 24 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_014",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 47 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_015",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 39 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_016",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 100 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_017",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 71 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_018",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 62 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_019",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 2 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_020",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 89 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_021",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 55 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_022",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 26 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_023",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 40 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_024",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 47 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_025",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 32 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_026",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 53 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_027",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 63 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_028",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 93 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_029",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 6 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_030",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 61 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_031",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 98 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_032",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 82 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_033",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 20 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_034",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 76 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_035",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 36 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_036",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 35 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_037",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 54 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_038",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 85 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_039",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 95 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_040",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 53 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_041",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 73 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_042",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 59 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_043",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 70 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_044",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 31 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_045",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 90 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_046",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 66 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_047",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 8 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_048",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 22 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_049",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 5 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_050",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 4 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_051",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 33 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_052",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 83 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_053",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 6 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_054",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 67 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_055",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 79 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_056",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 55 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_057",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 100 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_058",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 10 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_059",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 59 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_060",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 19 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_061",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 22 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_062",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 12 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_063",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 13 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_064",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 18 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_065",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 78 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_066",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 64 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_067",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 10 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_068",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 99 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_069",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 47 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_070",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 2 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_071",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 82 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_072",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 54 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_073",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 3 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_074",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 24 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_075",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 3 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_076",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 4 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_077",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 96 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_078",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 83 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_079",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 70 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_080",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 48 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_081",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 8 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_082",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 50 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_083",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 74 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_084",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 47 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_085",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 36 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_086",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 100 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_087",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 70 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_088",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 17 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_089",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 10 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_090",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 26 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_091",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 91 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_092",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 17 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_093",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 69 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_094",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 60 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_095",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 75 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_096",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 46 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_097",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 38 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_098",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 44 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_099",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 26 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_100",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 91 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_101",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 88 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_102",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 7 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_103",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 42 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_104",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 39 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_105",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 72 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_106",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 84 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_107",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 18 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_108",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 65 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_109",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 74 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_110",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 85 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_111",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 68 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_112",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 50 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_113",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 22 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_114",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 39 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_115",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 43 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_116",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 1 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_117",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 30 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_118",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 81 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_119",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 39 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_120",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 99 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_121",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 9 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_122",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 82 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_123",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 61 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "NB"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_124",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 8 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_125",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 92 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_126",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 91 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_127",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 86 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_128",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 42 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_129",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 43 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_130",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 9 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_131",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 71 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_132",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 5 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_133",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 1 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_134",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 26 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_135",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 11 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_136",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 43 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_137",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 22 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_138",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 62 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_139",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 56 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_140",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 96 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_141",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 85 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_142",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 95 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_143",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 92 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_144",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 15 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_145",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 1 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_146",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 57 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_147",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 32 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_148",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 52 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_149",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 4 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_150",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 44 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_151",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 60 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_152",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 12 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_153",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 49 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_154",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 43 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_155",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 36 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_156",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 97 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_157",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 93 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_158",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 98 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_159",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 33 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_160",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 92 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_161",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 77 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_162",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 65 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_163",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 7 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_164",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 25 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_165",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 69 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_166",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 72 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_167",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 31 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_168",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 81 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_169",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 24 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_170",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 72 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_171",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 24 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_172",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 72 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_173",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 18 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_174",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 67 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_175",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 75 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_176",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 44 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_177",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 87 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_178",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 77 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_179",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 28 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_180",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 64 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_181",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 15 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_182",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 37 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_183",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 39 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_184",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 92 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_185",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 55 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_186",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 16 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_187",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 61 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_188",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 45 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_189",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 31 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_190",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 71 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_191",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 11 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_192",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 34 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_193",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 48 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_194",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 84 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_195",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 54 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_196",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 46 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_197",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 5 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_198",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 65 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_199",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 78 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_200",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 86 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_201",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 75 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_202",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 5 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_203",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 17 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_204",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 90 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_205",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 24 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_206",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 77 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_207",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 56 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_208",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 16 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_209",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 93 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_210",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 76 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_211",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 15 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_212",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 88 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_213",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 7 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_214",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 50 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_215",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 94 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_216",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 87 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_217",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 46 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_218",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 57 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_219",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 4 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_220",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 80 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_221",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 79 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_222",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 23 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_223",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 14 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_224",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 58 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_225",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 49 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_226",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 41 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_227",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 8 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_228",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 86 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_229",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 78 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_230",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 14 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_231",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 58 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_232",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 21 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_233",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 50 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_234",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 37 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_235",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 68 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_236",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 19 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_237",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 25 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_238",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 51 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_239",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 56 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_240",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 95 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_241",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 41 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "TH"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_242",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 66 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_243",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 23 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_244",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 32 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_245",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 2 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_246",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 36 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_247",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 66 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_248",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 13 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_249",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 38 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_250",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 35 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_251",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 69 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_252",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 2 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_253",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 29 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_254",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 100 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_255",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 40 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_256",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 40 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_257",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 54 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_258",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 28 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_259",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 6 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_260",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 68 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_261",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 52 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_262",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 21 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_263",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 84 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_264",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 66 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_265",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 25 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_266",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 87 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_267",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 69 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_268",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 4 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_269",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 31 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_270",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 47 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_271",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 67 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_272",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 30 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_273",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 77 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_274",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 28 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_275",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 35 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_276",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 77 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_277",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 12 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_278",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 53 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_279",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 45 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_280",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 36 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_281",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 27 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_282",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 13 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_283",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 53 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_284",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 30 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_285",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 88 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_286",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 11 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_287",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 62 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_288",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 51 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_289",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 91 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_290",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 59 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_291",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 37 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_292",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 15 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_293",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 96 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_294",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 3 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_295",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 76 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_296",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 66 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_297",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 42 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_298",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 53 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_299",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 9 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_300",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 86 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_301",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 40 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_302",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 80 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_303",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 74 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_304",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 94 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_305",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 34 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_306",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 30 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_307",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 98 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_308",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 16 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_309",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 87 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_310",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 64 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_311",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 38 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_312",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 19 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_313",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 68 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_314",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 48 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_315",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 10 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_316",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 9 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_317",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 63 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_318",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 86 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_319",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 70 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_320",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 17 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_321",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 95 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_322",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 83 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_323",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 34 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_324",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 73 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_325",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 95 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_326",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 34 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_327",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 55 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_328",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 19 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_329",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 82 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_330",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 13 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_331",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 72 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_332",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 5 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_333",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 94 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_334",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 91 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_335",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 20 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_336",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 8 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_337",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 45 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_338",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 81 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_339",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 61 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_340",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 29 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_341",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 52 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_342",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 97 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_343",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 17 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_344",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 58 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_345",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 75 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_346",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 2 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_347",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 3 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_348",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 6 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_349",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 96 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_350",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 80 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_351",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 48 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_352",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 59 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_353",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 41 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_354",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 92 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_355",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 74 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_356",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 14 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_357",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 20 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_358",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 37 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_359",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 37 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_360",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 97 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_361",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 14 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_362",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 65 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_363",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 64 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_364",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 56 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_365",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 6 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_366",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 28 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_367",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 83 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_368",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 48 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_369",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 40 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_370",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 73 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_371",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 41 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_372",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 58 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_373",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 78 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_374",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 98 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_375",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 9 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_376",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 90 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VD"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_377",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 19 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_378",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 42 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_379",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 31 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_380",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 79 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_381",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 97 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_382",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 44 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_383",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 20 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_384",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 80 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_385",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 33 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_386",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 38 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_387",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 85 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_388",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 49 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_389",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 51 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_390",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 14 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_391",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 32 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_392",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 12 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_393",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 50 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_394",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 93 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_395",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 42 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_396",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 76 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_397",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 7 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_398",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 94 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_399",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 57 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_400",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 51 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_401",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 79 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_402",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 82 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_403",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 12 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_404",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 64 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_405",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 38 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_406",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 1 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_407",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 29 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_408",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 22 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_409",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 45 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_410",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 89 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_411",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 13 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_412",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 27 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_413",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 11 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_414",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 99 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_415",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 1 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_416",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 75 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_417",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 76 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_418",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 57 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_419",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 74 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_420",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 94 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_421",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 3 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_422",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 23 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_423",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 81 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_424",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 99 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_425",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 21 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_426",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 60 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_427",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 16 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_428",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 63 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_429",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 18 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_430",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 25 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_431",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 87 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_432",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 15 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_433",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 62 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_434",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 33 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_435",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 73 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_436",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 89 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_437",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 88 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_438",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 63 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_439",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 90 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_440",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 16 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_441",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 99 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_442",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 46 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_443",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 28 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_444",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 59 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_445",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 85 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_446",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 27 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_447",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 52 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_448",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 89 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_449",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 98 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_450",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 97 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_451",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 26 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_452",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 18 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_453",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 56 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_454",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 69 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_455",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 20 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_456",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 35 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_457",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 10 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_458",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 73 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_459",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 93 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_460",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 68 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_461",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 67 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_462",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 67 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_463",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 41 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_464",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 58 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_465",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 23 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_466",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 70 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_467",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 83 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_468",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 71 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_469",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 30 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_470",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 80 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_471",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 84 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_472",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 46 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_473",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 43 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_474",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 23 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_475",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 63 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_476",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 33 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_477",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 27 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_478",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 71 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_479",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 21 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_480",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 11 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_481",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 96 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_482",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 29 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_483",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 32 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_484",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 62 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_485",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 54 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_486",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 60 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_487",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 45 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_488",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 79 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_489",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 57 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_490",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 89 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_491",
-    "chuong": "I",
-    "bai": "4",
-    "q": "Câu hỏi mẫu 34 của Bài 4",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_492",
-    "chuong": "I",
-    "bai": "2",
-    "q": "Câu hỏi mẫu 27 của Bài 2",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_493",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 49 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_494",
-    "chuong": "I",
-    "bai": "5",
-    "q": "Câu hỏi mẫu 52 của Bài 5",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_495",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 35 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_496",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 7 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_497",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 29 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_498",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 55 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_499",
-    "chuong": "I",
-    "bai": "1",
-    "q": "Câu hỏi mẫu 61 của Bài 1",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   },
   {
     "id": "ChuongI_Bai1to5_500",
-    "chuong": "I",
-    "bai": "3",
-    "q": "Câu hỏi mẫu 100 của Bài 3",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "a": "A",
-    "level": "VDC"
+    "question": "",
+    "answer": "",
+    "topic": "",
+    "hint": ""
   }
 ]
