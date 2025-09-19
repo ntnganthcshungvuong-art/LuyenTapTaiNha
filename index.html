@@ -2,11 +2,47 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Ôn tập Toán 8 - Chương I</title>
   <script src="script.js" defer></script>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-  <h1>Ôn tập Toán 8 - Chương I</h1>
-  <div id="app"></div>
+<body class="bg-gray-50 p-6">
+  <div id="loginCard" class="max-w-md mx-auto bg-white shadow-md rounded-xl p-6">
+    <h1 class="text-xl font-bold mb-4">Ôn tập Toán 8 - Chương I (Demo)</h1>
+    <label class="block mb-2">Họ và tên:</label>
+    <input id="studentName" class="border p-2 w-full mb-4" placeholder="Nhập họ tên..." />
+    <label class="block mb-2">Chọn lớp:</label>
+    <select id="studentClass" class="border p-2 w-full mb-4">
+      <option value="">-- Chọn lớp --</option>
+      <option>8A1</option>
+      <option>8A2</option>
+      <option>8A3</option>
+      <option>8A4</option>
+      <option>8A5</option>
+      <option>8A6</option>
+      <option>8A7</option>
+    </select>
+    <button id="startBtn" class="bg-blue-500 text-white px-4 py-2 rounded">Bắt đầu</button>
+  </div>
+
+  <div id="examStatus" class="hidden max-w-2xl mx-auto mt-6">
+    <div class="flex justify-between mb-4">
+      <div>Thí sinh: <span id="who"></span> | Lớp: <span id="whichClass"></span> | Lần làm: <span id="attemptNo"></span></div>
+      <div>Thời gian còn lại: <span id="timeLeft"></span></div>
+    </div>
+  </div>
+
+  <div id="examCard" class="hidden max-w-2xl mx-auto bg-white shadow-md rounded-xl p-6">
+    <div id="questionsWrap" class="space-y-4"></div>
+    <button id="submitBtn" class="bg-green-500 text-white px-4 py-2 rounded mt-4">Nộp bài</button>
+  </div>
+
+  <div id="resultCard" class="hidden max-w-2xl mx-auto bg-white shadow-md rounded-xl p-6">
+    <h2 class="text-lg font-bold mb-4">Kết quả</h2>
+    <p id="score"></p>
+    <p id="suggest"></p>
+    <button id="retryBtn" class="bg-blue-500 text-white px-4 py-2 rounded mt-4">Làm lại</button>
+  </div>
 </body>
 </html>
