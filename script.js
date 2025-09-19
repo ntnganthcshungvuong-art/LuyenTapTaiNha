@@ -1,6 +1,6 @@
 // ====== CẤU HÌNH ======
 // Điền URL Web App của Google Apps Script sau khi bạn triển khai (step trong README).
-const SHEET_WEB_APP_URL = "YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SHEET_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwpfLkue5ySQZJYmsAjorSw3mZNULTC_Vc_9Dnp5PY/dev";
 
 // Thời gian làm bài (giây): 45 phút = 2700s
 const DURATION_SEC = 45 * 60;
