@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ôn tập Toán 8 - Chương I (Demo 40 câu)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    html, body { height: 100%; }
+    .disabled { opacity: 0.5; pointer-events: none; }
+    .countdown { font-variant-numeric: tabular-nums; }
+    .hint { display: none; }
+    .hint.show { display: block; }
+    input[type="text"] { ime-mode: disabled; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-900">
+  <div class="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8">
+    <header class="mb-6">
+      <h1 class="text-2xl sm:text-3xl font-bold">Ôn tập Toán 8 - Chương I (Demo)</h1>
+      <p class="text-sm text-gray-600">Chế độ ôn tập ưu tiên <b>điền khuyết</b> · 40 câu · 45 phút</p>
+    </header>
+
+    <!-- Card: Đăng nhập -->
+    <section id="loginCard" class="bg-white rounded-2xl shadow p-4 sm:p-6 mb-6 border">
+      <h2 class="text-lg font-semibold mb-4">Thông tin học sinh</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <div>
+          <label class="block text-sm mb-1" for="studentName">Họ và tên</label>
+          <input id="studentName" class="w-full border rounded-xl px-3 py-2" placeholder="VD: Nguyễn Văn A" />
+        </div>
+        <div>
+          <label class="block text-sm mb-1" for="studentClass">Lớp</label>
+          <select id="studentClass" class="w-full border rounded-xl px-3 py-2">
+            <option value="">-- Chọn lớp --</option>
+            <option>8A1</option><option>8A2</option><option>8A3</option><option>8A4</option>
+            <option>8A5</option><option>8A6</option><option>8A7</option>
+          </select>
+        </div>
+        <div class="self-end">
+          <button id="startBtn" class="w-full bg-indigo-600 text-white rounded-xl px-4 py-2 font-semibold hover:bg-indigo-700">
+            Bắt đầu làm bài
+          </button>
+        </div>
+      </div>
+      <div class="mt-3 text-sm text-gray-600">
+        <p><b>Hướng dẫn nhập:</b> lũy thừa dùng ký hiệu <code>^</code> (ví dụ <code>x^2</code>, <code>a^3</code>), nhân viết liền (ví dụ <code>3x</code>, <code>2ab</code>).
+        Dấu phân số có thể viết dạng <code>1/2</code>. Không cần khoảng trắng.</p>
+      </div>
+    </section>
+
+    <!-- Thanh trạng thái -->
+    <section id="examStatus" class="hidden bg-white rounded-2xl shadow p-4 sm:p-6 mb-6 border">
+      <div class="flex flex-col sm:flex-row items-start sm:items-center gap-3 justify-between">
+        <div>
+          <div class="text-sm text-gray-600">Thí sinh: <span id="who"></span> | Lớp: <span id="whichClass"></span></div>
+          <div class="text-sm text-gray-600">Lần làm: <span id="attemptNo">1</span></div>
+        </div>
+        <div class="text-right">
+          <div class="text-sm text-gray-600">Thời gian còn lại</div>
+          <div id="timer" class="countdown text-2xl font-bold">45:00</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Danh sách câu hỏi -->
+    <section id="examCard" class="hidden bg-white rounded-2xl shadow p-4 sm:p-6 mb-6 border">
+      <div id="questionsWrap" class="space-y-6"></div>
+      <div class="mt-6 flex items-center gap-3">
+        <button id="submitBtn" class="bg-emerald-600 text-white rounded-xl px-4 py-2 font-semibold hover:bg-emerald-700">
+          Nộp bài
+        </button>
+        <button id="saveDraftBtn" class="bg-gray-200 rounded-xl px-4 py-2">Lưu tạm</button>
+      </div>
+    </section>
+
+    <!-- Kết quả -->
+    <section id="resultCard" class="hidden bg-white rounded-2xl shadow p-4 sm:p-6 border">
+      <h2 class="text-lg font-semibold mb-2">Kết quả</h2>
+      <p class="mb-2"><b>Điểm:</b> <span id="scoreText">0</span> / 10</p>
+      <p class="mb-4"><b>Số câu đúng:</b> <span id="correctCount">0</span> / 40</p>
+      <div class="mb-4">
+        <h3 class="font-semibold mb-1">Gợi ý nội dung cần ôn lại</h3>
+        <ul id="reviewList" class="list-disc list-inside text-sm text-gray-700"></ul>
+      </div>
+      <div class="flex items-center gap-3">
+        <button id="retryBtn" class="bg-indigo-600 text-white rounded-xl px-4 py-2 font-semibold hover:bg-indigo-700">Làm lại (40 câu mới)</button>
+      </div>
+      <p class="text-xs text-gray-500 mt-3">Khi làm lại: hệ thống sẽ cố gắng chọn bộ câu hỏi khác với lần trước của bạn.</p>
+    </section>
+
+    <footer class="mt-8 text-xs text-gray-500">
+      <p>© Ôn tập Toán 8 - Chương I (Demo). Điểm mỗi câu đúng: 0.25.</p>
+    </footer>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
